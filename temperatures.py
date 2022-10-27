@@ -27,6 +27,10 @@ from my_lib.my_funcs import *
 
 # COMMAND ----------
 
+print("Hello world")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC The remainder of this notebook demonstrates using the functions declared in the referenced `my_funcs` Python file.
 
